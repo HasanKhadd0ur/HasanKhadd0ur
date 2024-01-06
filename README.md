@@ -1,7 +1,7 @@
 # Hi, I’m @HasanKhadd0ur
 >
 > _
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/hasan-khaddour/)
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasan-khaddour/)](https://www.linkedin.com/in/hasan-khaddour/)
 
 ____
 ````
