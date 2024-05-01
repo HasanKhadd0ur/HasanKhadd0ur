@@ -18,9 +18,10 @@ ____
 ## Skills
 
 - Programming languages: Javascript, Python, C++, Java, C# 
-- Frameworks: Reactjs 
+- Frameworks & libraries: Reactjs ,ASP .Net Core 
 - Software development
-- problem-solving
+- building a Web app using common web  Architectures  (MVC ,Clean Architecture , 3Layer Architecture )
+- problem-solving 
 - Collaboration and communication
 
 ____
