@@ -1,7 +1,7 @@
 # Hi, I’m Hasan 👨🏻‍💻 - @HasanKhadd0ur
 
 **`Software and Web Developer`**
-**`Rrontend Developer`**
+**`Frontend Developer`**
 **`Backend Developer`**
 
 >
@@ -23,9 +23,9 @@ ____
 ## Skills
 
 - Programming languages: Javascript, Python, C++, Java, C# 
-- Frameworks & libraries: Reactjs ,ASP .Net Core 
+- Frameworks & libraries: Reactjs ,ASP .Net Core ,Angular
 - Software development
-- building a Web app using common web  Architectures  (MVC ,Clean Architecture , 3Layer Architecture )
+- building a Web app using common web  Architectures  (MVC ,MVVM ,Clean Architecture & DDD Principles ,3Layer Architecture ) 
 - problem-solving 
 - Collaboration and communication
 
