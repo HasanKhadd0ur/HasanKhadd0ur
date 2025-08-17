@@ -1,8 +1,8 @@
 # Hi, I’m Hasan 👨🏻‍💻 - @HasanKhadd0ur
 
-**`Software and Web Developer`**
-**`Frontend Developer`**
-**`Backend Developer`**
+**`Software and AI Engineer`**
+**`Full-Stack Developer`**
+**`Problem Solver`**
 
 >
 > 
