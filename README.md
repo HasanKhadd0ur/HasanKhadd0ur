@@ -9,31 +9,35 @@
 [![Linkedin: hasan khaddour ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasan-khaddour/)](https://www.linkedin.com/in/hasan-khaddour/)
 
 
-Hello! I'm Hasan, an ambitious Software Engineering and AI student at the Higher Institute for Applied Sciences and Technology. My passion for technology drives me to constantly seek new challenges, dive into complex problem-solving, and deliver cutting-edge solutions.
+🎓 Bachelor’s in Software and Artificial Intelligence Engineering – Higher Institute for Applied Sciences and Technology (HIAST), 2025
 
-With a strong foundation in **web development** and an eagerness to explore the depths of **machine learning**, I aim to leverage my technical skills to create impactful projects. I’m particularly interested in the intersection of AI and software engineering, where I can apply both creative and analytical thinking to solve real-world problems.
+Hello! I'm Hasan, a passionate Software & AI Engineer with a solid foundation in web development, software architecture, and machine learning.
 
-I consider myself a lifelong learner. Each project I tackle brings new insights and growth opportunities. Whether working on a full-stack web application, designing an AI model, or collaborating on a cross-functional team, I bring a passion for innovation and a commitment to high-quality solutions.
+My journey at HIAST equipped me with both theoretical knowledge and hands-on experience in building scalable web applications, designing AI pipelines, and tackling real-world challenges through innovative solutions.
+
+With expertise spanning from frontend & backend development to deep learning & natural language processing, I aim to bridge the gap between AI research and software engineering to create impactful, practical systems.
+
+I thrive on continuous learning, teamwork, and solving complex problems that push me outside of my comfort zone 🚀.
 
 
 ____
 
 ````
-- 👀 I’m interested in Machine Learning  
-
-- 📫 How to reach me: hasan.b.khaddour@gmail.com
+- 👀 Interests: Machine Learning, NLP, Web Development, Software Architecture
+- 📫 Reach me at: hasan.b.khaddour@gmail.com
 ````
 
 ____
 
 ## Skills
 
-- Programming languages: Javascript, Python, C, C++, Java, C# 
-- Frameworks & libraries: Reactjs ,ASP .Net Core ,Angular
-- Software development
-- building a Web app using common web  Architectures  (MVC ,MVVM ,Clean Architecture & DDD Principles ,3Layer Architecture ) 
-- problem-solving 
-- Collaboration and communication
+- **Programming languages:** Javascript, Python, C, C++, Java, C# 
+- **Frameworks & libraries:** Reactjs ,ASP .Net Core ,Angular
+- **Databases:** SQL Server, MySQL, SQLite, MongoDB, Oracle
+- **Software development**
+- **Architectures:** building a Web app using common web  Architectures  (MVC ,MVVM ,Clean Architecture & DDD Principles ,3Layer Architecture ) 
+- **problem-solving** 
+- **Collaboration and communication**
 - 
 
 ____
