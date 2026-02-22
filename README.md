@@ -130,6 +130,9 @@ ____
 - **Total Contributions**:  
   I actively contribute to multiple open-source projects and collaborate with fellow developers. I strive to keep my repositories clean and efficient, and I love contributing to the open-source community.
 
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanKhadd0ur&theme=nord_dark)
+
 - **Contributions in 2023**:  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=HasanKhadd0ur&theme=dark)
 
